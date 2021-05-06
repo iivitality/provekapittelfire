@@ -110,9 +110,8 @@ header ul li ul li a:hover {
 /*main*/
 
 .bilde1 {
-    max-height: 800px;
-    max-width: 800px;
-    grid-column: 3/5;
+    
+    grid-column: 2/6;
     grid-row: 3/4;
     height: auto;
     width: auto;
@@ -154,8 +153,8 @@ header ul li ul li a:hover {
     max-width: 500px;
     grid-column: 2/4;
     grid-row: 6/7;
-    height: auto;
-    width: auto;
+    height: 140%;
+    width: 100%;
 }
 .bilde7 {
     max-height: 500px;
@@ -167,7 +166,7 @@ header ul li ul li a:hover {
 }
 
 .video {
-    grid-column: 3/5;
+    grid-column: 2/6;
     grid-row: 1/2;
     grid-row-gap: 15px;
     padding-top: 15px;
