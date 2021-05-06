@@ -185,6 +185,30 @@ header ul li ul li a:hover {
 
 
 /*footer*/
+.kontakt-oss{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    grid-column: auto;
+    grid-row: auto;
+}
+
+
+.kontakt{
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+.mobilnummer{
+    color: white;
+    transition: 0.5s;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 150px;
+    background-color:black;
+}
 
 
 
