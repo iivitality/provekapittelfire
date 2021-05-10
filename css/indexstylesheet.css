@@ -117,52 +117,47 @@ header ul li ul li a:hover {
     width: auto;
 }
 .bilde2 {
-    max-height: 500px;
-    max-width: 500px;
+    
     grid-column: 2/4;
     grid-row: 4/5;
     height: auto;
     width: auto;
 }
 .bilde3 {
-    max-height: 560px;
-    max-width: 560px;
+    
     grid-column: 4/6;
     grid-row: 4/5;
     height: auto;
     width: auto;
 }
 .bilde4 {
-    max-height: 500px;
-    max-width: 500px;
+    
     grid-column: 2/4;
     grid-row: 5/6;
     height: auto;
     width: auto;
 }
 .bilde5 {
-    max-height: 560px;
-    max-width: 560px;
+    
     grid-column: 4/6;
     grid-row: 5/6;
     height: auto;
     width: auto;
 }
 .bilde6 {
-    max-height: 500px;
-    max-width: 500px;
+    
     grid-column: 2/4;
     grid-row: 6/7;
-    height: 140%;
-    width: 100%;
+    height: auto;
+    width: auto;
 }
 .bilde7 {
-    max-height: 500px;
-    max-width: 500px;
+    
     grid-column: 4/6;
     grid-row: 6/7;
     height: auto;
     width: auto;
+    
 }
 
 .video {
